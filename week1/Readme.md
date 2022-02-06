@@ -1,5 +1,4 @@
-<span style="color: green"> Some green text </span>
-<font color="green"> Some green text </font>
+
 <span style="color:red">붉은 색</span>
 
 <span style="color:red">매니패스트 태그 시작 .</span> 
