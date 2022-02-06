@@ -1,13 +1,10 @@
 
-<span style="color:red">붉은 색</span>
-
-<span style="color:red">매니패스트 태그 시작 .</span> 
 # 1. Manifest란 무엇인가
-> 모든 앱 프로젝트는 프로젝트 소스세트의 루트에 AndroidManifest.xml 파일이 있어야함. <span style="color:red">매니패스트 태그 시작 .</span> 
+> 모든 앱 프로젝트는 프로젝트 소스세트의 루트에 AndroidManifest.xml 파일이 있어야함. 
 
 ```Kotlin
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"  <span style="color:yellow">매니패스트 태그 시작 .</span> 
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"  ### <span style="color:yellow">매니패스트 태그 시작 .</span> 
     package="com.example.rc_test">
     
     <application
