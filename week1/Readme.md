@@ -3,7 +3,7 @@
 
 ```Kotlin
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" // <span style="color:yellow">매니패스트 태그 시작 .</span> 
     package="com.example.rc_test">
     
     <application
