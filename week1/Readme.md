@@ -1,3 +1,9 @@
+# 1주차 과제 계획서
+> ## 1.Manifest 항목 조사 -> 매니패스트의 용도 및 4대 컴포넌트, 적용한 예시
+> ## 2.Palette 항목 조사 -> 각가의 태그들의 역할 태그에서 대표적으로 어떤 속성들을 사용할수 있는지
+> ## 3.Linear / Relative / Frame / Table / Grid / Constraint 조사 
+> ## 4.레이아웃 활용하여 화면 구축 -> 레이아웃들의 특징들
+---
 
 # 1. Manifest란 무엇인가
    > 모든 앱 프로젝트는 프로젝트 소스세트의 루트에 AndroidManifest.xml 파일이 있어야함. 
