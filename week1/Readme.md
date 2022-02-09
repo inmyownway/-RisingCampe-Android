@@ -45,4 +45,4 @@
    > 앱을 최종 어플리케이셔 패키지(APK)로 빌드하는 동안 안드로이드 빌드 도구가 패키지 특성으 사용하느 목적은 2가지 입니다
    > 1. 빌드 도구는 앱에서 생성된 R.java 클래스의 네임스페이스로 이 이름을 적용합니다 , 위의 매니페스트오 함께 R클래스가 com.example.rc_text.R 로 생성
    > 2. 매니페스트 파일내에서 선언된 상대경롱 적용됩니다. <activity android:name=".MainActivity">로 선언된 액티비티가 com.example.myapp.rc_test 인 것으로 확인
-    
+   > 
