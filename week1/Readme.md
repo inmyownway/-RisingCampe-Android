@@ -167,4 +167,8 @@ MutilAutoCompleteTextView	확장 가능한 편집 가능한 텍스트보기로, 
    내부 값들을 정할 때 layout_gravity는 뷰를 정렬하는 데 사용되고 gravity는 뷰 안에 들어가 있는 내용물을 정렬할때 사용한다.
    ## 2. Relative Layout
 > 레이아웃 내부에 포함된 위젯들을 상대적인 위치로 배치
+   ![r1](https://user-images.githubusercontent.com/90558247/153354447-df479154-88a0-47cf-806c-622bea3b6c4a.jpg)
+   ![r2](https://user-images.githubusercontent.com/90558247/153354502-7e348b59-c745-46ae-9c82-ef8bcf81089b.jpg)
+
+
 
