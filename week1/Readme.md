@@ -151,7 +151,11 @@
    > < uses-sdk > 하나 이상의 Android 플랫폼 버전과의 애플리케이션 호환성을 API 레벨 정수로 표시할 수 있습니다.
  
 ---
-   
+> adad
+   sdsds
+   sds
+   ad
+   a
 # 2. Palette 항목
    > ada
    > ads
