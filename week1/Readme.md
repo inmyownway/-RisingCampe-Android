@@ -162,8 +162,8 @@ MutilAutoCompleteTextView	확장 가능한 편집 가능한 텍스트보기로, 
 ---
 # 3. Layout
    ## 1. Linear Layout
-> 기본적인 레이아웃으로 왼쪽 위부터 아래 또는 오른쪽으로 차례로 배치 \n
-   이용할때 항상 orientation 속성에서 "horizontal" 또는 "vertical"으로 레이아웃을 추가해 나갈지 결정해줘야한다.
+> 기본적인 레이아웃으로 왼쪽 위부터 아래 또는 오른쪽으로 차례로 배치 
+  이용할때 항상 orientation 속성에서 "horizontal" 또는 "vertical"으로 레이아웃을 추가해 나갈지 결정해줘야한다.
    내부 값들을 정할 때 layout_gravity는 뷰를 정렬하는 데 사용되고 gravity는 뷰 안에 들어가 있는 내용물을 정렬할때 사용한다.
    ## 2. Relative Layout
 > 레이아웃 내부에 포함된 위젯들을 상대적인 위치로 배치
