@@ -169,6 +169,17 @@ MutilAutoCompleteTextView	확장 가능한 편집 가능한 텍스트보기로, 
 > 레이아웃 내부에 포함된 위젯들을 상대적인 위치로 배치
    ![r1](https://user-images.githubusercontent.com/90558247/153354447-df479154-88a0-47cf-806c-622bea3b6c4a.jpg)
    ![r2](https://user-images.githubusercontent.com/90558247/153354502-7e348b59-c745-46ae-9c82-ef8bcf81089b.jpg)
+   ## 3. Frame Layout
+>  하나의 자식 view 위젯만 표시  
+   여러 view 위젯을 자식으로 추가하면 겹쳐진 형태로 표시되며, 가장 최근에 추가된 view 위젯이 가장 위에 표시됌  
+   이러한 특징을 이용해 가장 위의 위젯만 보이고 나머지는 보이지않아 하나의 view 보이게할수있음
+   ## 4. Table Layout
+>  자식 view 위젯을 테이블(행과 열로구성)로 나누어 표시
+   ## 5. Grid Layout
+>  ridLayout은 2차원 격자무늬 형태의 레이아웃으로 행과 열의 집합형태로 구성된 레이아웃입니다. TableLayout의 단점을 보완한 레이아웃으로 LinearLayout 또는 FrameLayout과 같은 다른 레이아웃의 장점을 포함
+   
+   
+   
 
 
 
