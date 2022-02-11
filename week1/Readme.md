@@ -181,7 +181,12 @@ MutilAutoCompleteTextView	확장 가능한 편집 가능한 텍스트보기로, 
    ![fream](https://user-images.githubusercontent.com/90558247/153550755-253f20a3-e579-4252-a388-ce4371a02101.jpg)
 
    ## 4. Table Layout
->  자식 view 위젯을 테이블(행과 열로구성)로 나누어 표시
+>  자식 view 위젯을 테이블(행과 열로구성)로 나누어 표시. 
+   stretchColumns: 여유공간이 생기지 않음, 속성 안에는 크기를 늘리고싶은 뷰의 인덱스를 작성 ex) android:stretchColumns="0,2" ( o과 2의 뷰의 크기 늘림)  
+   layout_span: 해당 column이 지정한 값 만큼의 공간 차지 ex) layout_span="3"이면 1만큼의 자리를 가진 뷰가 3만큼 자리를 가짐  
+   layout_column: 인덱스 번호를 입력하면 해당 column이 지정된 인덱스 위치로 이동 ex) 두번째에 배치되어있는 인덱스가 1인 뷰를 column="3" 하면 두칸 옆으로 이동  
+   ![table](https://user-images.githubusercontent.com/90558247/153552309-ce39a246-60c1-4320-a707-c8a79a3b427a.jpg)
+
    ## 5. Grid Layout
 >  ridLayout은 2차원 격자무늬 형태의 레이아웃으로 행과 열의 집합형태로 구성된 레이아웃입니다. TableLayout의 단점을 보완한 레이아웃으로 LinearLayout 또는 FrameLayout과 같은 다른 레이아웃의 장점을 포함
    
