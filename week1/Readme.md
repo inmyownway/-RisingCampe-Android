@@ -196,12 +196,11 @@
 >  ridLayout은 2차원 격자무늬 형태의 레이아웃으로 행과 열의 집합형태로 구성된 레이아웃입니다. TableLayout의 단점을 보완한 레이아웃으로 LinearLayout 또는 FrameLayout과 같은 다른 레이아웃의 장점을 포함
    
 # 4. Layout 활용하여 화면 구축하기 
-   > ![practice1-3](https://user-images.githubusercontent.com/90558247/153582325-33bf0b61-3c27-44df-8437-1e7c505543fa.jpg)
+   > ![practice1-3](https://user-images.githubusercontent.com/90558247/153582325-33bf0b61-3c27-44df-8437-1e7c505543fa.jpg)  
      Linear 레이아웃을 사용하였고, orientation="vertical" 로하여 수직적으로 뷰를 배치했습니다.  
      가운데 공백을 주기위해서 weigthsum을 이용해 공백에 weigh를 0.7 을 주었습니다.  
    
-   
-     ![practice2-2](https://user-images.githubusercontent.com/90558247/153582527-b629791d-2941-4520-a85e-8f8533fc6766.jpg)
+   > ![practice2-2](https://user-images.githubusercontent.com/90558247/153582527-b629791d-2941-4520-a85e-8f8533fc6766.jpg)  
      전체적인 레이아웃은 Linear(vertical), 중간에 facebook,google 버튼이 있는곳처럼 뷰들이 나란히있는곳은 Linear(horizontal) 레이아웃을 사용해 나란히 배치했습니다.
      
    
