@@ -201,10 +201,14 @@
      가운데 공백을 주기위해서 weigthsum을 이용해 공백에 weigh를 0.7 을 주었습니다.  
    
    > ![practice2-2](https://user-images.githubusercontent.com/90558247/153582527-b629791d-2941-4520-a85e-8f8533fc6766.jpg)  
+       
      전체적인 레이아웃은 Linear(vertical), 중간에 facebook,google 버튼이 있는곳처럼 뷰들이 나란히있는곳은 Linear(horizontal) 레이아웃을 사용해 나란히 배치했습니다.
      
    
-     ![practice3](https://user-images.githubusercontent.com/90558247/153582513-dac49136-bc8e-4f99-ad13-2917cc8e75a9.jpg)
+   > ![practice3](https://user-images.githubusercontent.com/90558247/153582513-dac49136-bc8e-4f99-ad13-2917cc8e75a9.jpg)
+     
+   전체적인 레이아웃은 relative 레이아웃으로 해줬고, 상단바와 하단바는 linear 레이아웃(horizontal)로 아이콘들을 수평적으로 배치했고  
+   Tool 아이콘들이 있는곳은 grid 레이아웃을 사용해 행과열로 배열하고 각 레이아웃들을 relative layout 으로 위치를 정해주었습니다.
 
 
    
