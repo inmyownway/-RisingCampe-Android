@@ -163,9 +163,7 @@
    ![text7](https://user-images.githubusercontent.com/90558247/153580757-0b15fbba-9dc7-47b0-a72b-5278be50daa7.jpg)
    ![text8](https://user-images.githubusercontent.com/90558247/153580760-3267ae30-1d35-4c89-86fa-8f2e15fc3c47.jpg)
    
-   출처 https://yesiamnahee.tistory.com/4
-
- 
+   출처 https://white-hacker.tistory.com/entry/Android-안드로이드-스튜디오-팔레트-정리
 ---
 # 3. Layout
    ## 1. Linear Layout
