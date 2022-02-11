@@ -196,7 +196,7 @@
 >  ridLayout은 2차원 격자무늬 형태의 레이아웃으로 행과 열의 집합형태로 구성된 레이아웃입니다. TableLayout의 단점을 보완한 레이아웃으로 LinearLayout 또는 FrameLayout과 같은 다른 레이아웃의 장점을 포함
    
 # 4. Layout 활용하여 화면 구축하기 
-   > ![practice1](https://user-images.githubusercontent.com/90558247/153581509-16fcdac2-3028-44e9-bde4-d7aa44ecc603.jpg)
+   > ![practice1-2](https://user-images.githubusercontent.com/90558247/153581792-4d197fd2-c936-4e6d-a882-eb49903043ac.jpg)
 
 
    
