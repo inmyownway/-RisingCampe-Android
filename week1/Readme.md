@@ -164,7 +164,7 @@ MutilAutoCompleteTextView	확장 가능한 편집 가능한 텍스트보기로, 
    ## 1. Linear Layout
 > 기본적인 레이아웃으로 왼쪽 위부터 아래 또는 오른쪽으로 차례로 배치  
 > 이용할때 항상 orientation 속성에서 "horizontal" 또는 "vertical"으로 레이아웃을 추가해 나갈지 결정해줘야한다.  
->  내부 값들을 정할 때 layout_gravity는 뷰를 정렬하는 데 사용되고 gravity는 뷰 안에 들어가 있는 내용물을 정렬할때 사용한다.
+>  내부 값들을 정할 때 layout_gravity는 뷰를 정렬하는 데 사용되고 gravity는 뷰 안에 들어가 있는 내용물을 정렬할때 사용한다.  
 >  weight는 내부 객체들의 크기를 비율로 정해줌  
 >  weightSum 은 전체 비율을 정하는 속성, weight는 항상 남은 크기에서 비율로 크기를 나눠서 여백이 없지만 weightsum은 여백을 남길수 잇음
    ## 2. Relative Layout
