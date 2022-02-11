@@ -197,7 +197,7 @@
    
 # 4. Layout 활용하여 화면 구축하기 
    > ![practice1-2](https://user-images.githubusercontent.com/90558247/153581792-4d197fd2-c936-4e6d-a882-eb49903043ac.jpg)
-
+![practice2](https://user-images.githubusercontent.com/90558247/153582113-40732ea1-3d55-4add-8e8f-2a92939db6b6.jpg)
 
    
    
