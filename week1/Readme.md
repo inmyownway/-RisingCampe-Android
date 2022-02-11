@@ -153,8 +153,18 @@
 ---
 
 # 2. Palette 항목
-   ## Text
->  
+
+>  ![text1](https://user-images.githubusercontent.com/90558247/153580728-86a381a2-c70a-497c-a590-dfc58290ea3b.jpg)
+   ![text2](https://user-images.githubusercontent.com/90558247/153580742-27a5af53-c71c-407b-a7bf-654736a11398.jpg)
+   ![text3](https://user-images.githubusercontent.com/90558247/153580744-d32d3b42-fc14-41a4-8301-5230ab94c7da.jpg)
+   ![text4](https://user-images.githubusercontent.com/90558247/153580748-5634c755-e4c1-4a29-8b87-9fe155c9fe33.jpg)
+   ![text5](https://user-images.githubusercontent.com/90558247/153580751-21c3ade3-3ec7-47f2-a47a-662f20c1e8b0.jpg)
+   ![text6](https://user-images.githubusercontent.com/90558247/153580753-a708ffc4-07dc-4476-bee1-729464c6ace5.jpg)
+   ![text7](https://user-images.githubusercontent.com/90558247/153580757-0b15fbba-9dc7-47b0-a72b-5278be50daa7.jpg)
+   ![text8](https://user-images.githubusercontent.com/90558247/153580760-3267ae30-1d35-4c89-86fa-8f2e15fc3c47.jpg)
+   
+   출처 https://yesiamnahee.tistory.com/4
+
  
 ---
 # 3. Layout
