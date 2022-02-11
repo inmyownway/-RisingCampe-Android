@@ -190,6 +190,8 @@ MutilAutoCompleteTextView	확장 가능한 편집 가능한 텍스트보기로, 
    ## 5. Grid Layout
 >  ridLayout은 2차원 격자무늬 형태의 레이아웃으로 행과 열의 집합형태로 구성된 레이아웃입니다. TableLayout의 단점을 보완한 레이아웃으로 LinearLayout 또는 FrameLayout과 같은 다른 레이아웃의 장점을 포함
    
+# 4. Layout 활용하여 화면 구축하기 
+   
    
    
 
