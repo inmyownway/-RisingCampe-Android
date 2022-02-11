@@ -178,6 +178,8 @@ MutilAutoCompleteTextView	확장 가능한 편집 가능한 텍스트보기로, 
    visible : 뷰의 영역 유지, 뷰를 보여줌 (일반적인상태)  
    invisible : 뷰의 영역을 유지하고, 뷰를 숨김(ex,이미지뷰의 영역은 남기고 이미지를 숨김)  
    gone: 뷰의 영역 자체를 숨겨 보이지않음  
+   ![fream](https://user-images.githubusercontent.com/90558247/153550755-253f20a3-e579-4252-a388-ce4371a02101.jpg)
+
    ## 4. Table Layout
 >  자식 view 위젯을 테이블(행과 열로구성)로 나누어 표시
    ## 5. Grid Layout
