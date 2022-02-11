@@ -153,7 +153,7 @@
 ---
 
 # 2. Palette 항목
->      ## Text
+> ## Text
       TextView 화면에 텍스트를 표시하는 기능  
       Plain Text 표준 텍스트 키보드를 표시하는 textview  
       Password 표준 텍스트 키보드를 표시하고 개인 정보 보호를 위해 입력 한 텍스트를 숨김  
