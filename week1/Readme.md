@@ -194,7 +194,11 @@
 
    ## 5. Grid Layout
 >  ridLayout은 2차원 격자무늬 형태의 레이아웃으로 행과 열의 집합형태로 구성된 레이아웃입니다. TableLayout의 단점을 보완한 레이아웃으로 LinearLayout 또는 FrameLayout과 같은 다른 레이아웃의 장점을 포함
-   
+   ## 6.Constraint Layout
+   > ㅊ
+   ## 6.Constraint Layout
+   > 여
+   ## 6.Constraint Layout
 # 4. Layout 활용하여 화면 구축하기 
    > ![practice1-3](https://user-images.githubusercontent.com/90558247/153582325-33bf0b61-3c27-44df-8437-1e7c505543fa.jpg)  
       
