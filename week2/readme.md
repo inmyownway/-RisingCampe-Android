@@ -35,5 +35,25 @@
 
 출처: https://crazykim2.tistory.com/634 [잡다한 프로그래밍]
 
+> ## 액티비티 생성
+> ![image](https://user-images.githubusercontent.com/90558247/153816081-7c3d3b10-3922-4eca-8075-ec6ae8356bd1.png)
+> 1. onCreate() → 생성된 화면 구성요소를 메모리에 로드
+> 2. onStart(), onResume() → 화면의 구성요소를 나타내고 사용자와 상호작용 시작(Resumed: 실행 중)
+> ## 액티비티 화면에서 제거
+> ![image](https://user-images.githubusercontent.com/90558247/153816206-c0b730aa-498b-45a7-89d4-e6ecada6dd3d.png)
+> 1. onPause(), onStop() → 뒤로 가기, finish()를 실행할 때 동시에 실행
+> 2. onDestory() → 최종적으로 액티비티가 메모리에서 제거
+> ## 액티비티를 종료하지 않ㄱ 다른 액티비티 실행
+> 1. onPause(), onStop() → 현재 액티비티를 종료하지 않고 새로운 액티비티가 만들어질 때(Stopped)
+> 2. onStart(), onResume() → 두 메서드가 연속적으로 실행되고 Resumed 상태로 변경
+> ## 액티비티를 종료하지 않거나, 모두 가려지지 않을 때 다른 액티비티 실행
+> 1. onPause() → 완전히 사라진 것은 아니므로 Paused 상태로 변경
+> 2. onResume() → 정지가 아니니 onStart를 거치지 않고 바로 onResume로 Resumed
+
+출처: https://bbaktaeho-95.tistory.com/62 [Bbaktaeho]
+
+
+
+
 
 
